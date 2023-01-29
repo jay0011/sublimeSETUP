@@ -1,0 +1,27 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+   ],
+	"font_size": 14,
+
+
+
+	
+	 "color_scheme": "Monokai Classic.sublime-color-scheme",
+    "darkmatter_sidebar_font_large": true,
+    "darkmatter_sidebar_tree_large": true,
+    "darkmatter_tabs_auto_width": true,
+    "darkmatter_tabs_font_normal": true,
+    "darkmatter_tabs_large": true,
+    /*"font_size": 14,*/
+    /*"ignored_packages":
+    [
+        "Vintage"
+    ],*/
+    "save_on_focus_lost": true,
+    "theme": "auto",
+       /*"theme": "auto",*/
+     "dark_theme": "Default Dark.sublime-theme",
+     "light_theme": "Monokai Pro (Filter Machine).sublime-theme",
+}
